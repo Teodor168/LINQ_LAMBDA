@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\bin\Debug\net8.0\Sguni-Sumirai.exe
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\bin\Debug\net8.0\Sguni-Sumirai.deps.json
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\bin\Debug\net8.0\Sguni-Sumirai.runtimeconfig.json
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\bin\Debug\net8.0\Sguni-Sumirai.dll
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\bin\Debug\net8.0\Sguni-Sumirai.pdb
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.dll
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\refint\Sguni-Sumirai.dll
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.pdb
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\Sguni-Sumirai.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\LINQ\Sguni-Sumirai\obj\Debug\net8.0\ref\Sguni-Sumirai.dll

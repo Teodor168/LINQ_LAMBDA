@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\bin\Debug\net8.0\SortiraneNaKratkiDumi.exe
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\bin\Debug\net8.0\SortiraneNaKratkiDumi.deps.json
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\bin\Debug\net8.0\SortiraneNaKratkiDumi.runtimeconfig.json
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\bin\Debug\net8.0\SortiraneNaKratkiDumi.dll
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\bin\Debug\net8.0\SortiraneNaKratkiDumi.pdb
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.dll
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\refint\SortiraneNaKratkiDumi.dll
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.pdb
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\SortiraneNaKratkiDumi.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\LINQ\SortiraneNaKratkiDumi\obj\Debug\net8.0\ref\SortiraneNaKratkiDumi.dll

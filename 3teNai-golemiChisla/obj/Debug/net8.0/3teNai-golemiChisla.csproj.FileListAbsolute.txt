@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\bin\Debug\net8.0\3teNai-golemiChisla.exe
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\bin\Debug\net8.0\3teNai-golemiChisla.deps.json
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\bin\Debug\net8.0\3teNai-golemiChisla.runtimeconfig.json
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\bin\Debug\net8.0\3teNai-golemiChisla.dll
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\bin\Debug\net8.0\3teNai-golemiChisla.pdb
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.dll
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\refint\3teNai-golemiChisla.dll
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.pdb
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\3teNai-golemiChisla.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\LINQ\3teNai-golemiChisla\obj\Debug\net8.0\ref\3teNai-golemiChisla.dll
